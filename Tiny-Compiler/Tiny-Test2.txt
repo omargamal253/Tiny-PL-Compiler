@@ -1,0 +1,25 @@
+
+int operation1 (int a, int b){
+  int x , y ;
+  x := a + b + (5 * 20);
+  y := x * 2 ;  
+return x ; 
+}
+
+int main (){
+ repeat 
+   x := sum()+ (x + 2);
+   write x ;
+   x:= 5 ;
+ until
+   x < 5 
+
+ if x> 5 then 
+   write x ; 
+   float x1 , y1 ;
+   x1 := 100 ;
+ elseif x1 < 2 then
+   write x ;
+   end
+ return 0 ;
+}

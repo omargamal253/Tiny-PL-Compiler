@@ -1,0 +1,26 @@
+int sum (int a, int b){
+
+read x ;
+return x ;
+}
+int main (){
+
+repeat 
+write x ;
+x:= 5 ;
+until
+y< 5 
+
+read x ;
+write x;
+
+if x> 5 then 
+write x ; 
+int x ;
+x := 5 ;
+elseif x < 2 then
+write x ;
+end
+
+return 0 ;
+}
